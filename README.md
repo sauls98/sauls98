@@ -47,9 +47,10 @@ Infraestructura: servidor HP ProLiant + RTX 3080.
 ---
 
 ## GitHub Stats
-[![GitHub stats](https://github-stats-alpha.vercel.app/api?username=sauls98)](https://github.com/sauls98)
----
 
+[![GitHub stats](https://github-stats-alpha.vercel.app/api?username=sauls98)](https://github.com/sauls98)
+
+---
 
 ## Contacto
 
