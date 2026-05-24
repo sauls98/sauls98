@@ -1,6 +1,8 @@
 # Saúl Contreras
-**Analista de Ciberseguridad · Redes · Pentesting**  
-📍 Orellana, Ecuador · alexcinco98@gmail.com
+
+**Analista de Ciberseguridad · Redes · Pentesting**
+
+📍 Orellana, Ecuador · 📧 alexcinco98@gmail.com
 
 ---
 
@@ -28,11 +30,11 @@ Actualmente trabajo en el sector público desarrollando proyectos de seguridad c
 
 | Área | Herramientas |
 |---|---|
-| **Seguridad ofensiva** | Kali Linux, Nmap, Metasploit, Wireshark, Burp Suite, OpenVAS |
-| **Seguridad defensiva** | Wazuh SIEM, Kibana, pfSense, Honeypot, ISO 27001, LOPDP, EIPD |
-| **Redes** | MikroTik, Cisco, Huawei, GPON/FTTH, Radioenlaces PTP/PTMP, VLAN, Firewall |
-| **Sistemas** | Kali Linux, Ubuntu, Windows Server, entornos virtualizados |
-| **Scripting** | Python — automatización, análisis de logs, auditorías de seguridad |
+| Seguridad ofensiva | Kali Linux, Nmap, Metasploit, Wireshark, Burp Suite, OpenVAS |
+| Seguridad defensiva | Wazuh SIEM, Kibana, pfSense, Honeypot, ISO 27001, LOPDP, EIPD |
+| Redes | MikroTik, Cisco, Huawei, GPON/FTTH, Radioenlaces PTP/PTMP, VLAN, Firewall |
+| Sistemas | Kali Linux, Ubuntu, Windows Server, entornos virtualizados |
+| Scripting | Python — automatización, análisis de logs, auditorías de seguridad |
 
 ---
 
@@ -53,4 +55,4 @@ Infraestructura: servidor HP ProLiant + RTX 3080.
 
 ## Contacto
 
-[LinkedIn](https://linkedin.com/in/saul-contreras) · [Web](https://telecorp.orellanadigitalco.trade/) · alexcinco98@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/saul-contreras) · 🌐 [Web](https://telecorp.orellanadigitalco.trade/) · alexcinco98@gmail.com
